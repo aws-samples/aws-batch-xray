@@ -1,6 +1,6 @@
 # How to configure AWS X-Ray tracing for your AWS Batch jobs?
 
-This repository is part of [this blog post](LINK), for detailed information follow the link.
+
 
 # Architecture
 
