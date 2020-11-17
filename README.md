@@ -1,6 +1,6 @@
 # How to configure AWS X-Ray tracing for your AWS Batch jobs?
 
-
+This repository is the sample application for [this blog post](https://aws.amazon.com/blogs/mt/configure-aws-x-ray-tracing-aws-batch-jobs/), for detailed information on the AWS Batch compute environment, refer to the full blog post.
 
 # Architecture
 
@@ -9,7 +9,7 @@
 
 1. Install dependencies: `npm install`
 
-2. Bootstarp CDK on desired region: `cdk bootstrap aws://AWS_ACCOUNT_ID/AWS_REGION`
+2. Bootstrap CDK on desired region: `cdk bootstrap aws://AWS_ACCOUNT_ID/AWS_REGION`
 
 3. Deploy the Stack: `cdk deploy BatchXrayStack`
 
